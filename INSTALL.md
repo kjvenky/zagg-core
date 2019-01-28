@@ -1,4 +1,4 @@
-#Bitcoin Build Instructions
+# Bitcoin Build Instructions
 
 cd lib/bitcoin
 
